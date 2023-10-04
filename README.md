@@ -2,7 +2,7 @@
 
 Welcome to the Devastator Transformer Assembly Guide! In this document, we will walk you through the steps to assemble your very own Devastator Transformer robot.
 
-![Devastator Transformer](devastator.jpg)
+![Devastator Transformer](d3d-printable-bulldozer-not-devastator-no-supports-3d-model-stl.jpg)
 
 ## Table of Contents
 - [Introduction](#introduction)
